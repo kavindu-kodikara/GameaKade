@@ -38,7 +38,7 @@ The app is designed to handle user accounts, cart functionality, food category b
 
 </br></br>
 
-![Home Page 2](images/home2.png)
+<img src="images/home2.png" alt="Home Page 2" width="300"/>
 
 </br>
 
