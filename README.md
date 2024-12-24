@@ -8,6 +8,22 @@ This fully functional and responsive e-commerce web application was developed fo
 
 The app is designed to handle user accounts, cart functionality, food category browsing, meal ordering, and an admin panel to manage orders, users, and products.
 
+### Features
+- **Client Side:**
+  - Home page with search and navigation options.
+  - User authentication with login, sign-up, and password recovery.
+  - Browsing products by categories and detailed single product views.
+  - Cart functionality and checkout with delivery time selection.
+  - Payment integration using "PayHere" gateway.
+  - User account management, including profile, addresses, and order history.
+
+- **Admin Side:**
+  - Dashboard with real-time statistics (earnings, sales, and new orders).
+  - Order management with status updates.
+  - Product management, including adding, editing, and deleting products.
+  - User management.
+  - Special meal management for daily highlights.
+
 ---
 
 ## Features
@@ -20,55 +36,111 @@ The app is designed to handle user accounts, cart functionality, food category b
 - **Food Categories and Meals**: Displays food categories and daily special meals selected by the admin.
 - **Login Button**: Directs users to the login/sign-up page.
 
-*Image placeholder for Home Page*
+</br></br>
+
+![Home Page 2](images/home2.png)
+
+</br>
+
+![Home Page](images/home.png)
+
+</br>
 
 #### 2. Login/Sign-Up Page
 - **Login Options**: Includes "Remember Me" and "Forgot Password."
 - **Sign-Up Option**: Seamless animation to toggle between login and sign-up.
 
-*Image placeholder for Login/Sign-Up Page*
+</br></br>
+
+![SignIn Page](images/signIn.png)
+
+</br>
+
+![SignUp Page](images/signUp.png)
+
+</br>
 
 #### 3. Products Page
 - Displays all products categorized by food type.
 
-*Image placeholder for Products Page*
+</br></br>
+
+![Products Page](images/products.png)
+
+</br>
 
 #### 4. Single Product View
 - **Product Details**: Images, name, ratings, price, and reviews.
 - **Actions**: Add to cart or buy now.
 
-*Image placeholder for Single Product View*
+</br></br>
+
+![Single Product Page](images/singleProduct.png)
+
+</br>
 
 #### 5. Checkout Page
 - **Delivery Details**: Allows changing delivery address and selecting delivery time (Breakfast, Lunch, Dinner). Delivery times are automatically disabled after the respective time slots.
 - **Payment Options**: Cash on Delivery or "PayHere" gateway for card payments.
 - **Invoice Generation**: Users receive a detailed invoice on successful payment.
 
-*Image placeholder for Checkout Page*
+</br></br>
+
+![Checkout 1 Page](images/checkout.png)
+
+</br>
+
+![Checkout 2 Page](images/checkout2.png)
+
+</br>
 
 #### 6. Manage My Account Page
 - **Profile Management**: View and edit profile details.
 - **Default Address**: Display and update default address.
 - **Recent Orders**: List of recent orders.
 
-*Image placeholder for Manage My Account Page*
+</br></br>
+
+![Manage My Account Page](images/manageMyAccount.png)
+
+</br>
 
 #### 7. Address Book Page
 - Manage all addresses and set a default address.
 
-*Image placeholder for Address Book Page*
+</br></br>
+
+![Address Book 1 Page](images/addressBook1.png)
+
+</br>
+
+![Address Book 2 Page](images/addressBook2.png)
+
+</br>
 
 #### 8. My Cart Page
 - Displays all items added to the cart.
 
-*Image placeholder for My Cart Page*
+</br></br>
+
+![My Cart Page](images/cart.png)
+
+</br>
 
 #### 9. My Orders Page
 - **Order History**: View all past orders.
 - **Order Details**: Detailed view of each order, including status, products, and price.
 - **Actions**: Write a review or cancel the order.
 
-*Image placeholder for My Orders Page*
+</br></br>
+
+![My Orders 1 Page](images/orders1.png)
+
+</br>
+
+![My Orders 2 Page](images/orders2.png)
+
+</br>
 
 ---
 
@@ -77,18 +149,34 @@ The app is designed to handle user accounts, cart functionality, food category b
 #### 1. Dashboard
 - Displays total earnings, total sales, today’s earnings, and new orders segmented by meal types.
 
-*Image placeholder for Dashboard*
+</br></br>
+
+![Admin Dashboard Page](images/adminDashBord.png)
+
+</br>
 
 #### 2. New Orders Page
 - Lists all new orders grouped by meal type.
 - Allows viewing and updating order status via a pop-up.
 
-*Image placeholder for New Orders Page*
+</br></br>
+
+![Admin Orders 1 Page](images/adminOrders1.png)
+
+</br>
+
+![Admin Orders 2 Page](images/adminOrders2.png)
+
+</br>
 
 #### 3. Products Page
 - Lists all products with options to search, edit, delete, or add new products.
 
-*Image placeholder for Products Page*
+</br></br>
+
+![Admin Products Page](images/adminProducts.png)
+
+</br>
 
 #### 4. Users Page
 - Allows managing user accounts.
@@ -98,16 +186,9 @@ The app is designed to handle user accounts, cart functionality, food category b
 #### 5. Meals Page
 - Enables adding special foods to each meal.
 
-*Image placeholder for Meals Page*
+</br></br>
 
----
+![Admin Meals 1 Page](images/adminMeals.png)
 
-## How to Add Images
-Replace each *Image placeholder* with the appropriate image using the following markdown format:
-```markdown
-![Page Name](path/to/image.jpg)
-```
+</br>
 
-For example:
-```markdown
-![Home Page](images/home_page.jpg)
