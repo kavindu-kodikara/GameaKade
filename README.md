@@ -1,4 +1,4 @@
-# Restaurant E-Commerce Web Application
+# GameaKade E-Commerce Web Application
 
 ## Overview
 This fully functional and responsive e-commerce web application was developed for a restaurant client to facilitate online food ordering and home delivery. The application includes a client-facing interface and an admin dashboard, built with the following technologies:
