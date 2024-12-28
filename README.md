@@ -192,3 +192,9 @@ The app is designed to handle user accounts, cart functionality, food category b
 
 </br>
 
+## Disclaimer
+**This project is intended for demonstration and educational purposes only. Any attempt to publish or redistribute this project as your own is prohibited and will be considered a violation of copyright.**
+
+## License
+This project is licensed under the [MIT License](LICENSE.md).
+
